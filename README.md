@@ -9,7 +9,7 @@
   
   <br>
   
-  🌱 I’m currently learning -> **Front-end <=> Back-end** <br>
+  🌱 I’m currently learning -> **| Front-end <=> Back-end |** <br>
   📫 How to reach me -> **marcelino.bilibio.68@gmail.com** <br>
   ⚡ Fun fact: **💗 Philosofy and Sociology 💗** <br>
   
