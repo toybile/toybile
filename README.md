@@ -74,9 +74,12 @@
     <summary>⚡ Github Stats</summary>
     <br>
     <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=toybile&theme=github-dark-dimmed&border_radius=25&card_width=520&card_height=200"> <!-- |dark-minimalist| |iceberg| |whatsapp-dark| |blue-navy| |github-dark-theme| ||-->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=toybile&theme=&border_radius=25&card_width=520&card_height=200">
+    <!-- |dark-minimalist| |iceberg| |whatsapp-dark| |blue-navy| |github-dark-theme| |apprentice| |violet-punch| |violet-dark| |windows-dark| |git-dark| |android-dark| |yellow-dark| |hacker| |github-dark-blue| |github-dark| |javascript-dark| |holi-theme|
+         |monokai-metallian| |dark-smoky| |soft-green| |black-ice| |blueberry-duo| |react| |graywhite| |bear| |buefy-dark| |monokai| |dracula| -->
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=toybile&theme=iceberg&border_radius=25&show_icons=true&hide_border=false&count_private=true" alt="toybile">
+    <img src="https://github-readme-stats.vercel.app/api?username=toybile&theme=react&border_radius=25&show_icons=true&hide_border=false&count_private=true" alt="toybile">
+    <!-- |Blueberry| |React| |Graywhite| |Bear| |Buefy| |Monokai| |Dracula| -->
     </p>
     <hr><br>
   </details>
