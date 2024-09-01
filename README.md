@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Guilherme Bilibio</h1>
-<h3 align="center">A DS Student - IFSP - Brazil</h3>
-
 <div align="center">
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bree+Serif&size=40&pause=2000&color=C54CF7&center=true&vCenter=true&width=500&height=80&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+##
+<h3>Student - DS — IFSP - Brazil</h3>
 
   <!-- Visits Counter -->
   <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ftoybile&s=40&c=ff0088&bg=00000000&no=5&ff=digi&tb=&ta=" alt="toybile"></p>
@@ -57,17 +59,18 @@
 
   <!-- ############################################################################################################################################################################################################################################ -->
   
-  <hr>
+  ##
   
   <!-- Contribution Graph -->
   ![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/toybile?chart=3dbar&gap=0.3&scale=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_4&format=svg&weeks=30&theme=sunset)
   <!------------------------>
 
-  <br><hr><br>
+  ##
 
   <!-- ############################################################################################################################################################################################################################################ -->
   
-
+  <br>
+  
   <!-- Stats -->
   <details>
     <summary>⚡ Github Stats</summary>
@@ -83,8 +86,6 @@
     <br>
   </details>
   <!----------->
-  
-
   
   <!-- Repositories -->
   <details>
