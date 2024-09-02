@@ -78,11 +78,10 @@
   <details>
     <summary>⚡ Github Stats</summary>
     <br>
-    <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=toybile&theme=react&border_radius=25&show_icons=true&hide_border=false&count_private=true&card_width=500&card_height=200" alt="toybile">
+    <img src="https://github-readme-stats.vercel.app/api?username=toybile&theme=react&border_radius=25&show_icons=true&hide_border=false&count_private=true&rank_icon=github&card_width=1" alt="toybile">
     <!-- |Blueberry| |React| |Graywhite| |Bear| |Buefy| |Monokai| |Dracula| -->
-    </p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=toybile&theme=apprentice&border_radius=25&card_width=450&card_height=180">
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=toybile&theme=monokai-metallian&border_radius=35&card_height=1">
     <!-- |dark-minimalist| |iceberg| |whatsapp-dark| |blue-navy| |github-dark-theme| |apprentice| |violet-punch| |violet-dark| |windows-dark| |git-dark| |android-dark| |yellow-dark| |hacker| |github-dark-blue| |github-dark| |javascript-dark| |holi-theme|
          |monokai-metallian| |dark-smoky| |soft-green| |black-ice| |blueberry-duo| |react| |graywhite| |bear| |buefy-dark| |monokai| |dracula| -->
     <br><br>
@@ -96,14 +95,12 @@
     <br>
     <p>
     <a href="https://github.com/toybile/Oshi-No-Ko">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=toybile&repo=Oshi-No-Ko&theme=monokai&border_radius=10"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=toybile&repo=Oshi-No-Ko&theme=graywhite&border_radius=10"></a>
     <br>
     <a href="https://github.com/toybile/Study">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=toybile&repo=Study&theme=monokai&border_radius=10"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=toybile&repo=Study&theme=graywhite&border_radius=10"></a>
     </p>
   </details>
   <!------------------>
-
-  <br>
 
 </div>
