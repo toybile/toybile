@@ -23,16 +23,17 @@
   <!-- Social Medias -->
   <h3>Connect with me:</h3>
   <p>
-  <a href="https://twitter.com/toybile" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toybile" height="30" width="40"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100072040628341&mibextid=ZbWKwL" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guilherme bilibio" height="30" width="40"/></a>
-  <a href="https://instagram.com/toybife" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toybife" height="30" width="40"/></a>
-  <a href="https://www.youtube.com/@toybile" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="toybile" height="30" width="40"/></a>
-  <a href="https://discord.com/users/630159304162279434" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="https://discordapp.com/users/630159304162279434" height="30" width="40"/></a>
+    <a href="https://www.youtube.com/@toybile" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="toybile" height="30" width="40"/></a>
+    <a href="https://discord.com/users/630159304162279434" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="https://discordapp.com/users/630159304162279434" height="30" width="40"/></a>
+    <a href="https://instagram.com/toybife" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toybife" height="30" width="40"/></a>
+    <a href="https://twitter.com/toybile" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toybile" height="30" width="40"/></a>
+    <a href="https://www.facebook.com/profile.php?id=100072040628341&mibextid=ZbWKwL" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guilherme bilibio" height="30" width="40"/></a>
+  
   </p>
   <!------------------->
 
@@ -67,6 +68,10 @@
   <!-- Contribution Graph -->
   ![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/toybile?chart=3dbar&gap=0.3&scale=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_4&format=svg&weeks=30&theme=sunset)
   <!------------------------>
+
+  <!-- Snake -->
+  
+  <!----------->
 
   ##
 
