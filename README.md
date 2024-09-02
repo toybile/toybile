@@ -81,7 +81,7 @@
   
   <!-- Stats -->
   <details>
-    <summary>⚡ Github Stats</summary>
+    <summary>⚡ GitHub Stats</summary>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=toybile&theme=react&border_radius=25&show_icons=true&hide_border=false&count_private=true&rank_icon=github&card_width=1" alt="toybile">
     <!-- |Blueberry| |React| |Graywhite| |Bear| |Buefy| |Monokai| |Dracula| -->
