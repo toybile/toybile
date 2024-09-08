@@ -6,7 +6,7 @@
 
 ##
 
-<h3>Student - DS — IFSP - Brazil</h3>
+### Student - DS — IFSP - Brazil
 
   <!-- Visits Counter -->
   <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ftoybile&s=35&c=ff0088&bg=00000000&no=5&ff=digi&tb=&ta=" alt="toybile"></p>
@@ -14,14 +14,14 @@
   
   <br>
   
-  🌱 I’m currently learning -> **| Front-end <=> Back-end |** <br>
-  📫 How to reach me -> **marcelino.bilibio.68@gmail.com** <br>
-  ⚡ Fun fact: **💗 Philosofy and Sociology 💗** <br>
+  🌱 I’m currently learning -> **| Front-end <=> Back-end |**  
+  📫 How to reach me -> **marcelino.bilibio.68@gmail.com**  
+  ⚡ Fun fact: **💗 Philosofy and Sociology 💗**  
   
   ##
   
   <!-- Social Medias -->
-  <h3>Connect with me:</h3>
+  ### Connect with me:
   <p>
     <a href="https://www.youtube.com/@toybile" target="_blank">
       <img align="center" src="https://www.svgrepo.com/show/354592/youtube-icon.svg" alt="toybile" height="30" width="40"/></a>
@@ -33,14 +33,13 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toybile" height="30" width="40"/></a>
     <a href="https://www.facebook.com/profile.php?id=100072040628341&mibextid=ZbWKwL" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guilherme bilibio" height="30" width="40"/></a>
-  
   </p>
   <!------------------->
 
   ##
   
   <!-- Languages and Tools I know (icons) -->
-  <h3>Languages and Tools:</h3>
+  ### Languages and Tools:
   <p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
@@ -89,8 +88,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=toybile&theme=monokai-metallian&border_radius=35&card_height=1">
     <!-- |dark-minimalist| |iceberg| |whatsapp-dark| |blue-navy| |github-dark-theme| |apprentice| |violet-punch| |violet-dark| |windows-dark| |git-dark| |android-dark| |yellow-dark| |hacker| |github-dark-blue| |github-dark| |javascript-dark| |holi-theme|
          |monokai-metallian| |dark-smoky| |soft-green| |black-ice| |blueberry-duo| |react| |graywhite| |bear| |buefy-dark| |monokai| |dracula| -->
-    <br><br>
-    <br>
+    <br><br><br>
   </details>
   <!----------->
   
