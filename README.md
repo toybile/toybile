@@ -15,7 +15,7 @@
   <br>
   
   🌱 I’m currently learning -> **| Front-end <=> Back-end |**  
-  📫 How to reach me -> **marcelino.bilibio.68@gmail.com**  
+  📫 How to reach me -> **guilherme.bilibio.0505@gmail.com**  
   ⚡ Fun fact: **💗 Philosofy and Sociology 💗**  
   
   ##
