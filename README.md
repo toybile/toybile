@@ -97,8 +97,8 @@
     <summary>❣️ Bests Repositories</summary>
     <br>
     <p>
-    <a href="https://github.com/toybile/Oshi-No-Ko">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=toybile&repo=Oshi-No-Ko&theme=graywhite&border_radius=10"></a>
+    <a href="https://github.com/toybile/frontend-explorations">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=toybile&repo=frontend-explorations&theme=graywhite&border_radius=10"></a>
     <br>
     <a href="https://github.com/toybile/Study">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=toybile&repo=Study&theme=graywhite&border_radius=10"></a>
