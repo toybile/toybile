@@ -8,15 +8,15 @@
 
   ### Student - DS — IFSP - Brazil
 
-  <!-- Visits Counter -->
+  <!-- Visits Counter
   <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ftoybile&s=35&c=ff0088&bg=00000000&no=5&ff=digi&tb=&ta=" alt="toybile"></p>
-  <!-------------------->
+  -->
   
   <br>
   
-  🌱 I’m currently learning -> **| Front-end <=> Back-end |**  
+  🌱 I’m currently learning -> **| Java -> OOP, enum, @ |**  
   📫 How to reach me -> **guilherme.bilibio.0505@gmail.com**  
-  ⚡ Fun fact: **💗 Philosofy and Sociology 💗**  
+  ⚡ Fun fact: **💗 Psychology, Quantum Physics... 💗**  
   
   ##
   
@@ -42,23 +42,25 @@
   ### Languages and Tools:
   <p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/></a>
+      <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"/></a>
+      <img src="https://www.svgrepo.com/show/354238/python.svg" alt="python" width="40" height="40"></a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a>
+    <a href="https://www.java.com/en/" alt="java" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"></a>
   </p>
   <!---------------------------------------->
   
-  <!-- Most Used Languages -->
+  <!-- Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toybile&show_icons=true&locale=en&layout=compact" alt="toybile">
-  <!------------------------->
+  -->
 
   <!-- ############################################################################################################################################################################################################################################ -->
   
@@ -78,21 +80,21 @@
   
   <br>
   
-  <!-- Stats -->
+  <!-- Stats
   <details>
     <summary>⚡ GitHub Stats</summary>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=toybile&theme=react&border_radius=25&show_icons=true&hide_border=false&count_private=true&rank_icon=github&card_width=1" alt="toybile">
-    <!-- |Blueberry| |React| |Graywhite| |Bear| |Buefy| |Monokai| |Dracula| -->
+    |Blueberry| |React| |Graywhite| |Bear| |Buefy| |Monokai| |Dracula|
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=toybile&theme=monokai-metallian&border_radius=35&card_height=1">
-    <!-- |dark-minimalist| |iceberg| |whatsapp-dark| |blue-navy| |github-dark-theme| |apprentice| |violet-punch| |violet-dark| |windows-dark| |git-dark| |android-dark| |yellow-dark| |hacker| |github-dark-blue| |github-dark| |javascript-dark| |holi-theme|
-         |monokai-metallian| |dark-smoky| |soft-green| |black-ice| |blueberry-duo| |react| |graywhite| |bear| |buefy-dark| |monokai| |dracula| -->
+      |dark-minimalist| |iceberg| |whatsapp-dark| |blue-navy| |github-dark-theme| |apprentice| |violet-punch| |violet-dark| |windows-dark| |git-dark| |android-dark| |yellow-dark| |hacker| |github-dark-blue| |github-dark| |javascript-dark| |holi-theme|
+         |monokai-metallian| |dark-smoky| |soft-green| |black-ice| |blueberry-duo| |react| |graywhite| |bear| |buefy-dark| |monokai| |dracula|
     <br><br><br>
   </details>
-  <!----------->
   
-  <!-- Repositories -->
+  
+  Repositories
   <details>
     <summary>❣️ Bests Repositories</summary>
     <br>
@@ -104,7 +106,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=toybile&repo=Study&theme=graywhite&border_radius=10"></a>
     </p>
   </details>
-  <!------------------>
+  -->
 
   <br>
 
