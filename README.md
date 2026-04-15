@@ -67,7 +67,7 @@
   ##
   
   <!-- Contribution Graph -->
-  ![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/toybile?chart=3dbar&gap=0&flatten=0&gradient=true&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=3&strokeColor=222222&animation=mess&animation_duration=5&animation_loop=false&format=svg&weeks=50&theme=purple&widget_size=large&dark=true)
+  ![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/toybile?chart=3dbar&gap=0&flatten=0&gradient=true&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=3&strokeColor=222222&animation=wave&animation_duration=5&animation_delay=0&animation_amplitude=11&animation_frequency=0.4&format=svg&weeks=50&theme=purple&widget_size=large&dark=true)
   <!------------------------>
 
   <!-- Snake -->
