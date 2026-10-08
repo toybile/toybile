@@ -8,6 +8,8 @@
 
   ### Student - DS — IFSP - Brazil
 
+<!--
+
   <!-- Visits Counter
   <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ftoybile&s=35&c=ff0088&bg=00000000&no=5&ff=digi&tb=&ta=" alt="toybile"></p>
   -->
@@ -111,3 +113,5 @@
   <br>
 
 </div>
+
+-->
