@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720"><defs><linearGradient id="sky" x1="0" y1="0" x2=".6" y2="1"><stop stop-color="#faf8f8"/><stop offset=".55" stop-color="#e9e3ef"/><stop offset="1" stop-color="#f0edf4"/></linearGradient><radialGradient id="sun"><stop stop-color="#fffefa"/><stop offset=".7" stop-color="#faf6f3"/><stop offset="1" stop-color="#e6dde9"/></radialGradient><filter id="haze"><feGaussianBlur stdDeviation="22"/></filter><clipPath id="edge"><rect x=".5" y=".5" width="999" height="719" rx="24"/></clipPath></defs><g clip-path="url(#edge)"><rect width="1000" height="720" fill="url(#sky)"/>
 <circle cx="745" cy="185" r="145" fill="#f8f4f3" opacity=".7"/>
 <circle cx="745" cy="185" r="94" fill="url(#sun)" stroke="#d1c4d8" stroke-opacity=".5"/>
-<ellipse cx="745" cy="185" rx="155" ry="36" fill="none" stroke="#ac9abf" opacity=".35" transform="rotate(-24 745 185)"/>
+
 <g fill="none" stroke="#b1a2c1" opacity=".25"><ellipse cx="470" cy="350" rx="395" ry="228" transform="rotate(-25 470 350)"/><ellipse cx="470" cy="350" rx="424" ry="249" transform="rotate(-25 470 350)"/></g>
 <path d="M0 535Q140 462 300 527T650 515T1000 490V720H0" fill="#d0c7dd" opacity=".3"/>
 <path d="M0 594Q165 538 330 589T720 575T1000 572V720H0" fill="#e5dfed"/>
