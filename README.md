@@ -1,11 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/toybile/toybile/archive/profile-artwork/collection/cosmos/atuais/steam-cosmos.svg" width="100%" alt="toybile — Cosmos">
+</p>
 
-  <br>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bree+Serif&size=40&pause=2000&color=C54CF7&center=true&vCenter=true&width=500&height=50&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-  ##
-
-  ### Student - DS — IFSP - Brazil
-
-</div>
+<p align="center">
+  <a href="https://toybile.github.io/"><img src="https://raw.githubusercontent.com/toybile/toybile/archive/profile-artwork/collection/cosmos/atuais/steam-cosmos-portfolio.svg" width="49%" alt="Visitar o Portfólio de toybile"></a>
+  <a href="https://github.com/toybile/Logic-Editor"><img src="https://raw.githubusercontent.com/toybile/toybile/archive/profile-artwork/collection/cosmos/atuais/steam-cosmos-logic.svg" width="49%" alt="Abrir o repositório Logic Editor"></a>
+</p>
