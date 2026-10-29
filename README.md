@@ -3,6 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://toybile.github.io/"><img src="https://raw.githubusercontent.com/toybile/toybile/archive/profile-artwork/collection/cosmos/atuais/steam-cosmos-portfolio.svg" width="49%" alt="Visitar o Portfólio de toybile"></a>
-  <a href="https://github.com/toybile/Logic-Editor"><img src="https://raw.githubusercontent.com/toybile/toybile/archive/profile-artwork/collection/cosmos/atuais/steam-cosmos-logic.svg" width="49%" alt="Abrir o repositório Logic Editor"></a>
+  <a href="https://toybile.github.io/"><img src="https://raw.githubusercontent.com/toybile/toybile/archive/profile-artwork/collection/cosmos/atuais/steam-cosmos-portfolio.svg" width="48%" alt="Visitar o Portfólio de toybile"></a><img src="https://raw.githubusercontent.com/toybile/toybile/archive/profile-artwork/collection/cosmos/atuais/spacing.svg" width="4%" alt=""><a href="https://toybile.github.io/Logic-Editor/"><img src="https://raw.githubusercontent.com/toybile/toybile/archive/profile-artwork/collection/cosmos/atuais/steam-cosmos-logic.svg" width="48%" alt="Abrir o site Logic Editor"></a>
 </p>
