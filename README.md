@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/toybile/toybile/archive/profile-artwork/collection/cosmos/atuais/steam-cosmos.svg" width="100%" alt="toybile — Cosmos">
+  <a href="https://github.com/toybile"><img src="https://raw.githubusercontent.com/toybile/toybile/archive/profile-artwork/collection/cosmos/atuais/steam-cosmos.svg" width="100%" alt="toybile — Cosmos"></a>
 </p>
 
 <p align="center">
